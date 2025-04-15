@@ -167,12 +167,6 @@ All related documentation is available in the `/docs` folder:
 
 ---
 
-## 📌 Demo
-
-You can record a demo using Android Emulator & Postman or screen recordings and upload it here for better understanding.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
